@@ -1,0 +1,99 @@
+[submodule "RF-Jammer"]
+    path = RF-Jammer
+    url = https://github.com/RocketGod-git/flipper-zero-rf-jammer.git
+
+[submodule "RadioFrequency-Scanner"]
+    path = RadioFrequency-Scanner
+    url = https://github.com/RocketGod-git/Flipper-Zero-Radio-Scanner.git
+
+[submodule "Sub-GHz-Bruteforcer"]
+    path = Sub-GHz-Bruteforce
+    url = https://github.com/DarkFlippers/flipperzero-subbrute.git
+
+[submodule "Meal-Pager"]
+    path = Meal-Pager
+    url = https://github.com/leedave/flipper-zero-meal-pager.git
+
+[submodule "Protoview"]
+    path = Protoview
+    url = https://github.com/antirez/protoview.git
+
+[submodule "Sub-GHz-Remote"]
+    path = Sub-GHz-Remote
+    url = https://github.com/DarkFlippers/SubGHz_Remote.git
+
+[submodule "Sub-GHz-Playlist"]
+    path = Sub-GHz-Bruteforce
+    url = https://github.com/Next-Flip/Momentum-Apps/tree/dev/subghz_playlist
+
+[submodule "Multi-Fuzzer"]
+    path = Multi-Fuzzer
+    url = https://github.com/DarkFlippers/Multi_Fuzzer.git
+
+[submodule "Mifare-Fuzzer"]
+    path = Mifare-Fuzzer
+    url =https://github.com/spheeere98/mifare_fuzzer.git
+
+[submodule "NFC-Playlist"]
+    path = NFC-Playlist
+    url = https://github.com/acegoal07/FlipperZero_NFC_Playlist.git
+
+[submodule "MFKey"]
+    path = MFKey
+    url = https://github.com/xMasterX/all-the-plugins/tree/dev/base_pack/mfkey
+
+[submodule "ESP32-WiFi-Marauder"]
+    path = ESP32-WiFi-Marauder
+    url = https://github.com/0xchocolate/flipperzero-wifi-marauder.git
+
+[submodule "ESP32-Evil-Portal-MITM"]
+    path = ESP32-Evil-Portal-MITM
+    url = https://github.com/Next-Flip/Momentum-Apps/tree/dev/evil_portal
+
+[submodule "ESP8266-WiFi-Deauther"]
+    path = ESP8266-WiFi-Deauther
+    url = https://github.com/Next-Flip/Momentum-Apps/tree/dev/esp8266_deauth
+
+[submodule "ESP8266-WiFi-Deauther-v2"]
+    path = ESP8266-WiFi-Deauther-v2
+    url = https://github.com/Next-Flip/Momentum-Apps/tree/dev/wifi_deauther
+
+[submodule "ESP-WiFi-Scanner"]
+    path = ESP-WiFi-Scanner
+    url = https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module/tree/main/FlipperZero-WiFi-Scanner-App/applications/wifi_scanner
+
+[submodule "ESP-Flasher"]
+    path = ESP-Flasher
+    url =https://github.com/0xchocolate/flipperzero-esp-flasher.git
+
+[submodule "Coffee-EEPROM"]
+    path = Coffee-EEPROM
+    url = https://github.com/wh00hw/Coffee-EEPROM-FAP.git
+
+[submodule "Sentry-Safe"]
+    path = Sentry-Safe
+    url = https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin.git
+
+[submodule "Magspoof"]
+    path = Magspoof
+    url = https://github.com/zacharyweiss/magspoof_flipper.git
+
+[submodule "BLE-Spam"]
+    path = BLE-Spam
+    url = https://github.com/Next-Flip/Momentum-Apps/tree/dev/ble_spam
+
+[submodule "Mass-Storage"]
+    path = Mass-Storage
+    url = https://github.com/Next-Flip/Momentum-Apps/tree/dev/mass_storage
+
+[submodule "USB-Customer-Control"]
+    path = USB-Customer-Control
+    url = https://github.com/WithSecureLabs/usb-consumer-control.git
+
+[submodule "Quac"]
+    path = Quac
+    url = https://github.com/rdefeo/quac.git
+
+[submodule "IR-Scope"]
+    path = IR-Scope
+    url = https://github.com/xMasterX/all-the-plugins/tree/dev/base_pack/ir_scope
