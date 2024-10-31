@@ -38,9 +38,17 @@
     path = NFC-Playlist
     url = https://github.com/acegoal07/FlipperZero_NFC_Playlist.git
 
+[submodule "RFID-NFC-Detector"]
+    path = RFID-NFC-Detector
+    url = https://github.com/xMasterX/all-the-plugins/tree/dev/base_pack/nfc_rfid_detector
+
 [submodule "MFKey"]
     path = MFKey
     url = https://github.com/xMasterX/all-the-plugins/tree/dev/base_pack/mfkey
+
+[submodule "MFC-Editor"]
+    path = MFC-Editor
+    url = https://github.com/xMasterX/all-the-plugins/tree/dev/base_pack/mfc_editor
 
 [submodule "ESP32-WiFi-Marauder"]
     path = ESP32-WiFi-Marauder
