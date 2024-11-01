@@ -1,0 +1,59 @@
+[submodule "Sub-GHz-Playlist"]
+    path = Sub-GHz-Bruteforce
+    url = https://github.com/Next-Flip/Momentum-Apps/tree/dev/subghz_playlist
+    
+ [submodule "RFID-NFC-Detector"]
+    path = RFID-NFC-Detector
+    url = https://github.com/xMasterX/all-the-plugins/tree/dev/base_pack/nfc_rfid_detector
+
+[submodule "MFKey"]
+    path = MFKey
+    url = https://github.com/xMasterX/all-the-plugins/tree/dev/base_pack/mfkey
+
+[submodule "MFC-Editor"]
+    path = MFC-Editor
+    url = https://github.com/xMasterX/all-the-plugins/tree/dev/base_pack/mfc_editor
+
+[submodule "Picopass"]
+    path = Picopass
+    url = https://github.com/xMasterX/all-the-plugins/tree/dev/base_pack/picopass
+
+[submodule "RFID-Beacon"]
+    path = RFID-Beacon
+    url = https://github.com/xMasterX/all-the-plugins/tree/dev/non_catalog_apps/flipper_rfidbeacon
+    
+[submodule "ESP32-Evil-Portal-MITM"]
+    path = ESP32-Evil-Portal-MITM
+    url = https://github.com/Next-Flip/Momentum-Apps/tree/dev/evil_portal
+
+[submodule "ESP8266-WiFi-Deauther"]
+    path = ESP8266-WiFi-Deauther
+    url = https://github.com/Next-Flip/Momentum-Apps/tree/dev/esp8266_deauth
+
+[submodule "ESP8266-WiFi-Deauther-v2"]
+    path = ESP8266-WiFi-Deauther-v2
+    url = https://github.com/Next-Flip/Momentum-Apps/tree/dev/wifi_deauther
+
+[submodule "ESP-WiFi-Scanner"]
+    path = ESP-WiFi-Scanner
+    url = https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module/tree/main/FlipperZero-WiFi-Scanner-App/applications/wifi_scanner
+    
+[submodule "BLE-Spam"]
+    path = BLE-Spam
+    url = https://github.com/Next-Flip/Momentum-Apps/tree/dev/ble_spam
+
+[submodule "Mass-Storage"]
+    path = Mass-Storage
+    url = https://github.com/Next-Flip/Momentum-Apps/tree/dev/mass_storage
+
+[submodule "IR-Scope"]
+    path = IR-Scope
+    url = https://github.com/xMasterX/all-the-plugins/tree/dev/base_pack/ir_scope
+
+[submodule "IR-Remote"]
+    path = IR-Remote
+    url = https://github.com/Next-Flip/Momentum-Apps/tree/dev/ir_remote
+    
+ [submodule "IR-Decoder"]
+    path = IR-Decoder
+    url = https://github.com/prplecake/f0/tree/master/infrared/apps/ir_decoder
