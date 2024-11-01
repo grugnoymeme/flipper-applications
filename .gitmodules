@@ -1,13 +1,13 @@
 [submodule "RF-Jammer"]
-    path = /RF-Jammer
+    path = RF-Jammer
     url = https://github.com/RocketGod-git/flipper-zero-rf-jammer.git
 
 [submodule "RadioFrequency-Scanner"]
-    path = RadioFrequency-Scanner/
+    path = RadioFrequency-Scanner
     url = https://github.com/RocketGod-git/Flipper-Zero-Radio-Scanner.git
 
 [submodule "Sub-GHz-Bruteforcer"]
-    path = Sub-GHz-Bruteforce
+    path = Sub-GHz-Bruteforcer
     url = https://github.com/DarkFlippers/flipperzero-subbrute.git
 
 [submodule "Meal-Pager"]
