@@ -50,6 +50,10 @@
     path = MFC-Editor
     url = https://github.com/xMasterX/all-the-plugins/tree/dev/base_pack/mfc_editor
 
+[submodule "Picopass"]
+    path = Picopass
+    url = https://github.com/xMasterX/all-the-plugins/tree/dev/base_pack/picopass
+
 [submodule "ESP32-WiFi-Marauder"]
     path = ESP32-WiFi-Marauder
     url = https://github.com/0xchocolate/flipperzero-wifi-marauder.git
@@ -105,3 +109,11 @@
 [submodule "IR-Scope"]
     path = IR-Scope
     url = https://github.com/xMasterX/all-the-plugins/tree/dev/base_pack/ir_scope
+
+[submodule "IR-Remote"]
+    path = IR-Remote
+    url = https://github.com/Next-Flip/Momentum-Apps/tree/dev/ir_remote
+
+[submodule "Advanced-IR-Remote"]
+    path = Advanced-IR-Remote
+    url = https://github.com/kala13x/flipper-xremote.git
