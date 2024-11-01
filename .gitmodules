@@ -1,5 +1,5 @@
 [submodule "RF-Jammer"]
-    path = RF-Jammer
+    path = /RF-Jammer
     url = https://github.com/RocketGod-git/flipper-zero-rf-jammer.git
 
 [submodule "RadioFrequency-Scanner"]
