@@ -3,7 +3,7 @@
     url = https://github.com/RocketGod-git/flipper-zero-rf-jammer.git
 
 [submodule "RadioFrequency-Scanner"]
-    path = RadioFrequency-Scanner
+    path = RadioFrequency-Scanner/
     url = https://github.com/RocketGod-git/Flipper-Zero-Radio-Scanner.git
 
 [submodule "Sub-GHz-Bruteforcer"]
